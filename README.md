@@ -1,5 +1,10 @@
 # Valorant Esports Winrate Prediction
-The goal of this project is to find the best model to predict any teams' winrate based on key team statistics.
+The goal of this project is to find the best model to predict any teams' winrate and which statistics have highest correlation.
+
+And to answer some questions:
+1. Does more eco wins lead to game wins?
+2. Does more semi-eco wins lead to game wins?
+3. Does more full-buy wins lead to game wins?
 
 Results are presented at the bottom of this page
 
