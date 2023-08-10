@@ -16,5 +16,9 @@ Raw dataset from Kaggle, approximaetly 200,000 rows
 <br /> <br /> Original data source can be found at [Kaggle](https://www.kaggle.com/datasets/visualize25/valorant-pro-matches-full-data)
 <br /> Cleaned data can be found at [Data](https://github.com/marcowong3/valorant-esports-winrate-analysis/tree/main/data)
 
-## Models
-<img src="./images/data_framework.jpeg">
+## Models & Errors
+<img src="./images/modelstats.png">
+
+## Model Predictions
+<img src="./images/model_graphs.png">
+
