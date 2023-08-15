@@ -6,7 +6,8 @@ And to answer some questions:
 2. Does more semi-eco wins lead to game wins?
 3. Does more full-buy wins lead to game wins?
 
-Results are presented at the bottom of this page
+## Model Predictions
+<img src="./images/model_graphs.png">
 
 ## Tools Used
 - Language: Python
@@ -23,7 +24,3 @@ Raw dataset from Kaggle, approximaetly 200,000 rows
 
 ## Models & Errors
 <img src="./images/modelstats.png">
-
-## Model Predictions
-<img src="./images/model_graphs.png">
-
